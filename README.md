@@ -1,5 +1,5 @@
 # Intro to Claude AI Course
-My Intro to Claude AI course published on the Scrimba learning platform as well as on Coursera.
+My Intro to Claude AI course published on Scrimba, Coursera, and freeCodeCamp.
 
 [<img src="images/course-card.png">](https://v2.scrimba.com/claude-ai-c09gsmkso3)
 
@@ -13,6 +13,7 @@ My Intro to Claude AI course published on the Scrimba learning platform as well 
 ## Course URLs
 1. [Intro to Claude AI course on Scrimba](https://v2.scrimba.com/claude-ai-c09gsmkso3)
 2. [Intro to Claude AI course on Coursera](https://www.coursera.org/learn/intro-to-claude-ai)
+3. [Intro to Claude AI course on freeCodeCamp](https://www.youtube.com/watch?v=QfJB9d0J3Iw)
 
 ## Source Code Repositories:
 In the course, students build the following apps:
