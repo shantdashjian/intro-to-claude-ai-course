@@ -1,7 +1,7 @@
 # Intro to Claude AI Course
-My Intro to Claude AI course published on Scrimba, Coursera, and freeCodeCamp.
+My Intro to Claude AI course published on [Scrimba](https://scrimba.com/claude-ai-c09gsmkso3?coupon=SHANT50), [Coursera](https://www.coursera.org/learn/intro-to-claude-ai), and [freeCodeCamp](https://www.youtube.com/watch?v=QfJB9d0J3Iw).
 
-[<img src="images/course-card.png">](https://v2.scrimba.com/claude-ai-c09gsmkso3)
+[<img src="images/course-card.png">](https://scrimba.com/claude-ai-c09gsmkso3?coupon=SHANT50)
 
 ## In This Document:
   - [Course URLs](#course-urls)
@@ -11,7 +11,7 @@ My Intro to Claude AI course published on Scrimba, Coursera, and freeCodeCamp.
   - [Prerequisites](#prerequisites)
 
 ## Course URLs
-1. [Intro to Claude AI course on Scrimba](https://v2.scrimba.com/claude-ai-c09gsmkso3)
+1. [Intro to Claude AI course on Scrimba](https://scrimba.com/claude-ai-c09gsmkso3?coupon=SHANT50)
 2. [Intro to Claude AI course on Coursera](https://www.coursera.org/learn/intro-to-claude-ai)
 3. [Intro to Claude AI course on freeCodeCamp](https://www.youtube.com/watch?v=QfJB9d0J3Iw)
 
